@@ -1,0 +1,8 @@
+{
+  "name": "Simple add script to guides 2",
+  "type": "helper",
+  "properties": {
+    "user_type": "all",
+    "component": "all"
+  }
+}
